@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+_cache_/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# IDE settings
+.idea/
+.vscode/
