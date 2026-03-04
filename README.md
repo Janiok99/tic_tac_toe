@@ -1,15 +1,18 @@
 # Gra w kółko i krzyżyk w Pythonie (v1 → v2)
     To repozytorium przedstawia dwie wersje gry w kółko i krzyżyk napisanej w Pythonie.  
-    Projekt ma charakter edukacyjny i pokazuje, jak rozwijać prostą grę krok po kroku, dodając nowe funkcje i rozszerzając logikę.
+    Projekt ma charakter edukacyjny i pokazuje, jak rozwijać prostą grę krok po kroku, dodając nowe      funkcje i rozszerzając logikę.
 
-## Struktura repozytorium
-    /README.md
-    /v1
-        tic_tac_toe_pvp.py
-        README.md
-    /v2
-        tic_tac_toe_pvp_ai.py
-        README.md
+## Struktura projektu
+    tic_tac_toe/
+    │
+    ├── v1/
+    │   ├── tic_tac_toe_pvp.py       
+    │   ├── README.md
+    ├── v2/
+    │   ├── tic_tac_toe_pvp_ai.py              
+    │   ├── README.md            
+    │          
+    ├── README.md              
 
 ## Opis wersji
 
